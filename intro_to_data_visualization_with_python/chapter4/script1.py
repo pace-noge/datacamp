@@ -5,7 +5,7 @@ plt.imshow(image)
 plt.subplot(2,1,1)
 plt.title('Original image')
 plt.axis('off')
-plt.plot(image, 'gray')
+plt.imshow(image, cmap='gray')
 
 # Flatten the image into 1 dimension: pixels
 pixels = image.flatten()
