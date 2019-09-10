@@ -1,0 +1,22 @@
+"""
+The relationship between forward and backward propagation
+If you have gone through 4 iterations of calculating slopes (using backward propagation) and then updated weights, how many times must you have done forward propagation?
+
+INSTRUCTION
+-----------
+Possible Answers
+0.
+press
+1
+1.
+press
+2
+4.
+press
+3
+8.
+press
+
+"""
+
+# 4
